@@ -1,0 +1,1 @@
+module.exports = "Webpack-dev-server is so cool";
